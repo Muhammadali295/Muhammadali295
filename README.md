@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-muhammad-alis-projects-5543e715.vercel.app/](https://portfolio-muhammad-alis-projects-5543e715.vercel.app/)
-
 - 💬 Ask me about **React, Nextjs, Python**
 
 - 📫 How to reach me **muhammadali65711@gmail.com**
@@ -32,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadali295&show_icons=true&locale=en" alt="muhammadali295" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadali295&" alt="muhammadali295" /></p>
-
